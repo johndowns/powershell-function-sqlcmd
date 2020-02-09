@@ -1,2 +1,3 @@
-# powershell-function-sqlcmd
-Demonstration of using Invoke-Sqlcmd from PowerShell Azure function
+# Example PowerShell Azure Function with `Invoke-Sqlcmd` cmdlet
+
+This repository contains an example of using the `Invoke-Sqlcmd` cmdlet from within a PowerShell Azure Function (v3).
